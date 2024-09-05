@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📊 About Me:
 ¡Hola! Soy un apasionado estudiante de Ingeniería Matemática de 23 años, originario y residente de la Ciudad de México. Mi enfoque se centra en el análisis de datos y la resolución de problemas complejos, siempre con la meta de aprender y crecer en cada proyecto que emprendo.<br><br>He desarrollado una sólida base en programación, matemáticas avanzadas y estadística, lo que me ha permitido llevar a cabo proyectos que integran teoría y práctica. Desde la modelación financiera hasta la visualización de ecuaciones diferenciales parciales, mis trabajos reflejan mi compromiso con la excelencia y mi entusiasmo por explorar nuevas tecnologías.<br><br>Estoy ansioso por colaborar en proyectos desafiantes que me permitan expandir mis conocimientos y contribuir con soluciones innovadoras. Siempre estoy en busca de oportunidades para aprender más y aplicar mis habilidades en entornos reales. Si estás buscando a alguien con determinación, creatividad y una fuerte ética de trabajo, me encantaría conectar y explorar cómo puedo aportar a tu equipo.
 
 
